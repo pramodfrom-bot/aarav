@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GTA V Wanted Poster Generator",
+  "description": "Create your own Grand Theft Auto V style 'WANTED' poster. Enter a name and a crime, and let the Gemini API generate a fitting bounty for the most notorious characters in Los Santos.",
+  "requestFramePermissions": []
+}
